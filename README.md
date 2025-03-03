@@ -32,6 +32,10 @@ Open to everything that brings value to my life and future.
 - Personal growth and exploring neuroscience.
 - Keeping up with technological advancements and staying updated on geopolitical events.
 
+### :zap: Recent Activity
+- <!--START_SECTION:activity-->
+- <!--END_SECTION:activity-->
+
 ## Connect and Contact
 - [Email](mailto:nicurrego+github@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/nicolasurregodiaz)
