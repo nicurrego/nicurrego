@@ -34,8 +34,16 @@ Open to everything that brings value to my life and future.
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [nicurrego/nicurrego](https://github.com/nicurrego/nicurrego)<br>
+2. 📔 Created new repository [nicurrego/nicurrego](https://github.com/nicurrego/nicurrego)<br>
+3. 📔 Created new repository [nicurrego/Python-Hotel-Check-in-System](https://github.com/nicurrego/Python-Hotel-Check-in-System)<br>
+4. 📔 Created new repository [nicurrego/battleShip-python](https://github.com/nicurrego/battleShip-python)<br>
+5. ⬆️ Pushed 1 commit(s) to [nicurrego/ArrayGame](https://github.com/nicurrego/ArrayGame)<br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday, March 3rd, 2025, 10:19:04 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ## Connect and Contact
 - [Email](mailto:nicurrego+github@gmail.com)  
