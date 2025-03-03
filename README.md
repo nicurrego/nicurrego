@@ -33,8 +33,9 @@ Open to everything that brings value to my life and future.
 - Keeping up with technological advancements and staying updated on geopolitical events.
 
 ### :zap: Recent Activity
-- <!--START_SECTION:activity-->
-- <!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ## Connect and Contact
 - [Email](mailto:nicurrego+github@gmail.com)  
