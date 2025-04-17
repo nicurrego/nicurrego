@@ -34,15 +34,15 @@ Open to everything that brings value to my life and future.
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nicurrego/Alg_platzi](https://github.com/nicurrego/Alg_platzi)<br>
+1. 📔 Created new repository [nicurrego/estadistica-Inferencial-Platzi](https://github.com/nicurrego/estadistica-Inferencial-Platzi)<br>
 2. ⬆️ Pushed 1 commit(s) to [nicurrego/Alg_platzi](https://github.com/nicurrego/Alg_platzi)<br>
-3. 📔 Created new repository [nicurrego/Alg_platzi](https://github.com/nicurrego/Alg_platzi)<br>
-4. ⬆️ Pushed 1 commit(s) to [nicurrego/Funciones-Matematicas-Data-Science-and-AI](https://github.com/nicurrego/Funciones-Matematicas-Data-Science-and-AI)<br>
+3. ⬆️ Pushed 1 commit(s) to [nicurrego/Alg_platzi](https://github.com/nicurrego/Alg_platzi)<br>
+4. 📔 Created new repository [nicurrego/Alg_platzi](https://github.com/nicurrego/Alg_platzi)<br>
 5. ⬆️ Pushed 1 commit(s) to [nicurrego/Funciones-Matematicas-Data-Science-and-AI](https://github.com/nicurrego/Funciones-Matematicas-Data-Science-and-AI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 17th, 2025, 12:57:20 PM
+Last Updated: Thursday, April 17th, 2025, 1:24:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Connect and Contact
