@@ -36,13 +36,10 @@ Open to everything that brings value to my life and future.
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [nicurrego/Mlops-platzi](https://github.com/nicurrego/Mlops-platzi) from [platzi/Mlops-platzi](https://github.com/platzi/Mlops-platzi)<br>
 2. 📔 Created new repository [nicurrego/estadistica-Inferencial-Platzi](https://github.com/nicurrego/estadistica-Inferencial-Platzi)<br>
-3. ⬆️ Pushed 1 commit(s) to [nicurrego/Alg_platzi](https://github.com/nicurrego/Alg_platzi)<br>
-4. ⬆️ Pushed 1 commit(s) to [nicurrego/Alg_platzi](https://github.com/nicurrego/Alg_platzi)<br>
-5. 📔 Created new repository [nicurrego/Alg_platzi](https://github.com/nicurrego/Alg_platzi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 15th, 2025, 2:23:49 AM
+Last Updated: Thursday, May 15th, 2025, 12:19:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Connect and Contact
