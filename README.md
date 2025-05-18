@@ -35,11 +35,10 @@ Open to everything that brings value to my life and future.
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [nicurrego/Mlops-platzi](https://github.com/nicurrego/Mlops-platzi) from [platzi/Mlops-platzi](https://github.com/platzi/Mlops-platzi)<br>
-2. 📔 Created new repository [nicurrego/estadistica-Inferencial-Platzi](https://github.com/nicurrego/estadistica-Inferencial-Platzi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 18th, 2025, 12:55:15 AM
+Last Updated: Sunday, May 18th, 2025, 2:42:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Connect and Contact
