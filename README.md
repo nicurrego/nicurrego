@@ -34,15 +34,15 @@ Open to everything that brings value to my life and future.
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
-2. 📔 Created new repository [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
-3. ⬆️ Pushed 1 commit(s) to [nicurrego/PONG_game](https://github.com/nicurrego/PONG_game)<br>
-4. 📔 Created new repository [nicurrego/PONG_game](https://github.com/nicurrego/PONG_game)<br>
-5. ⬆️ Pushed 1 commit(s) to [nicurrego/NEAT_PONG](https://github.com/nicurrego/NEAT_PONG)<br>
+1. ⬆️ Pushed 1 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
+2. ⬆️ Pushed 2 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
+3. 📔 Created new repository [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
+4. ⬆️ Pushed 1 commit(s) to [nicurrego/PONG_game](https://github.com/nicurrego/PONG_game)<br>
+5. 📔 Created new repository [nicurrego/PONG_game](https://github.com/nicurrego/PONG_game)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 5th, 2025, 1:02:32 PM
+Last Updated: Friday, June 6th, 2025, 12:51:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Connect and Contact
