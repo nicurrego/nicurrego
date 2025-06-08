@@ -35,14 +35,14 @@ Open to everything that brings value to my life and future.
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
-2. ⬆️ Pushed 2 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
-3. 📔 Created new repository [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
-4. ⬆️ Pushed 1 commit(s) to [nicurrego/PONG_game](https://github.com/nicurrego/PONG_game)<br>
-5. 📔 Created new repository [nicurrego/PONG_game](https://github.com/nicurrego/PONG_game)<br>
+2. ⬆️ Pushed 1 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
+3. ⬆️ Pushed 1 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
+4. ⬆️ Pushed 1 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
+5. ⬆️ Pushed 2 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 8th, 2025, 2:51:03 AM
+Last Updated: Sunday, June 8th, 2025, 12:17:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Connect and Contact
