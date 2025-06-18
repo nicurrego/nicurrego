@@ -34,15 +34,15 @@ Open to everything that brings value to my life and future.
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
-2. ⬆️ Pushed 1 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
-3. ⬆️ Pushed 1 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
-4. ⬆️ Pushed 1 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
-5. ⬆️ Pushed 2 commit(s) to [nicurrego/Neural-Networks-from-Scratch](https://github.com/nicurrego/Neural-Networks-from-Scratch)<br>
+1. ⬆️ Pushed 1 commit(s) to [nicurrego/Galaxy_arena](https://github.com/nicurrego/Galaxy_arena)<br>
+2. ⬆️ Pushed 4 commit(s) to [nicurrego/Galaxy_arena](https://github.com/nicurrego/Galaxy_arena)<br>
+3. 📔 Created new repository [nicurrego/Galaxy_arena](https://github.com/nicurrego/Galaxy_arena)<br>
+4. ⬆️ Pushed 1 commit(s) to [nicurrego/space_ship_RL](https://github.com/nicurrego/space_ship_RL)<br>
+5. 📔 Created new repository [nicurrego/space_ship_RL](https://github.com/nicurrego/space_ship_RL)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 17th, 2025, 1:04:00 PM
+Last Updated: Wednesday, June 18th, 2025, 12:53:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Connect and Contact
