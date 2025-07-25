@@ -66,12 +66,12 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 
 | Project                          | Description                                                            | Demo / Badge                                       |
 | -------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------- |
-| **portfolio-site**               | My personal website: React, Tailwind & Vercel deployment.              | [Live](https://nicurrego.github.io/portfolio-site) |
-| **my_mind**                      | My thoughts on technology, personal growth, AI, philosophy, and slices of everyday life.| [Live](https://nicurrego.github.io/my_mind/)       |
+| **ArrayGame**                    | Interactive JS game teaching array manipulation with instant feedback. | [Play](https://nicurrego.github.io/ArrayGame/)     |
 | **Galaxy_arena**                 | Two-player spaceship arena—RL meets PvP in Python & Gym.               |                                                    |
 | **Neural-Networks-from-Scratch** | Build classic NN architectures in pure Python.                         |                                                    |
-| **project_MLOps**                | End-to-end MLOps pipeline: Data ▶️ Training ▶️ Deployment.            |                                                    |
-| **ArrayGame**                    | Interactive JS game teaching array manipulation with instant feedback. | [Play](https://nicurrego.github.io/ArrayGame/)     |
+| **portfolio-site**               | My personal website: React, Tailwind & Vercel deployment.              | [Live](https://nicurrego.github.io/portfolio-site) |
+| **my_mind**                      | My thoughts on technology, personal growth, AI, philosophy, and slices of everyday life.| [Live](https://nicurrego.github.io/my_mind/)       |
+| **NEAT_PONG**                | Training an AI to play PinPong using NeuroEvolution Augmenting Topologies            |                                                    |
 
 ---
 ### :zap: Recent Activity
