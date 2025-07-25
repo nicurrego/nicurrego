@@ -1,37 +1,79 @@
 
-# Hello, I'm Nicolas Urrego! 👋
+## 👋 Hi, I’m Nicolas Urrego Diaz 
+**AI/ML Enthusiast**  
+Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑ready AI & web applications.
 
-## About Me
-Student of **情報処理** at HAL Tokyo (currently in my 2nd and final year).  
-Passionate about artificial intelligence, machine learning, and technology.  
-Experienced in **JavaScript** and currently sharpening my skills in **Python**.  
-Open to everything that brings value to my life and future.
+---
 
-## Experience and Education
-- **Education:**  
-  Currently studying 情報処理 at HAL Tokyo, where I build strong foundations in programming and technology.
-- **High School:**  
-  I graduated from *Colegio Militar Coronel Juan Jose Rondon*, where I acquired leadership skills and military discipline to face daily challenges.
-- **Languages I Speak:**  
-  I speak Spanish and English fluently.  
-  Advanced in Japanese and Portuguese.  
-  Basic in French.
-- **Technical Experience:**  
-  - **JavaScript:** Previous projects that allowed me to develop fundamental skills.  
-  - **Python:** In the learning phase, exploring applications in artificial intelligence and machine learning.
+### 🧠 Machine Learning & Data Science
 
-## Projects
-- **Array Cat**  
-  *An interactive game that provides immediate feedback designed to help users learn about arrays and how to manipulate them.  
-  Originally developed in a JavaScript environment, with plans to deploy versions in other programming languages based on user preference.*
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![MLflow](https://img.shields.io/badge/-MLflow-00B0F0?style=for-the-badge&logo=mlflow&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Gymnasium](https://img.shields.io/badge/-Gymnasium-FF9900?style=for-the-badge&logo=gym&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nicurrego/ArrayGame)
-## Interests and Hobbies
-- Reading and exploring new ideas.
-- Watching astrophysics videos that ignite my curiosity.
-- Personal growth and exploring neuroscience.
-- Keeping up with technological advancements and staying updated on geopolitical events.
+---
 
+### 💻 Frontend & Backend
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![SQL (MySQL)](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+
+---
+
+### ☸️ Infrastructure & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![pyenv](https://img.shields.io/badge/-pyenv-96C8DA?style=for-the-badge&logo=pyenv&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+
+
+---
+
+## 🏅 Certifications
+
+![Platzi ML](https://img.shields.io/badge/Platzi-Machine%20Learning-1BA1F2?style=for-the-badge&logo=platzi&logoColor=white)  
+![Platzi Linear Algebra](https://img.shields.io/badge/Platzi-Linear%20Algebra-1BA1F2?style=for-the-badge&logo=platzi&logoColor=white)  
+![Platzi Scikit-Learn](https://img.shields.io/badge/Platzi-scikit--learn-1BA1F2?style=for-the-badge&logo=platzi&logoColor=white)  
+![Platzi Django](https://img.shields.io/badge/Platzi-Django-1BA1F2?style=for-the-badge&logo=platzi&logoColor=white)  
+![Platzi NLP](https://img.shields.io/badge/Platzi-NLP-1BA1F2?style=for-the-badge&logo=platzi&logoColor=white)  
+
+---
+
+## 🏫 Education & Experience
+
+- **情報処理**, HAL Tokyo (2nd & Final Year) — Foundations in programming, AI, and system design  
+- **Colegio Militar Coronel Juan Jose Rondon** — High school graduate with leadership & discipline skills  
+
+---
+
+## 📂 Pinned Projects
+
+| Project                          | Description                                                            | Demo / Badge                                       |
+| -------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------- |
+| **portfolio-site**               | My personal website: React, Tailwind & Vercel deployment.              | [Live](https://nicurrego.github.io/portfolio-site) |
+| **my_mind**                      | My thoughts on technology, personal growth, AI, philosophy, and slices of everyday life.| [Live](https://nicurrego.github.io/my_mind/)       |
+| **Galaxy_arena**                 | Two-player spaceship arena—RL meets PvP in Python & Gym.               |                                                    |
+| **Neural-Networks-from-Scratch** | Build classic NN architectures in pure Python.                         |                                                    |
+| **project_MLOps**                | End-to-end MLOps pipeline: Data ▶️ Training ▶️ Deployment.            |                                                    |
+| **ArrayGame**                    | Interactive JS game teaching array manipulation with instant feedback. | [Play](https://nicurrego.github.io/ArrayGame/)     |
+
+---
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
@@ -45,9 +87,14 @@ Open to everything that brings value to my life and future.
 Last Updated: Friday, July 25th, 2025, 2:53:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-## Connect and Contact
-- [Email](mailto:nicurrego+github@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/nicolasurregodiaz)
+## 📫 Let’s Keep in Touch
+
+Whether you have a collaboration in mind or just want to chat about AI, feel free to reach out:
+
+- ✉️  [Email Me](mailto:nicurrego+github@gmail.com)  
+- 🔗  [LinkedIn](https://www.linkedin.com/in/nicolasurregodiaz)  
+- 🌐  [Portfolio Site](https://nicurrego.github.io/portfolio-site)  
+
 
 
 
