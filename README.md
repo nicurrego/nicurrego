@@ -76,15 +76,15 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 ---
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nicurrego/Movie-site](https://github.com/nicurrego/Movie-site)<br>
-2. ⬆️ Pushed 1 commit(s) to [nicurrego/Movie-site](https://github.com/nicurrego/Movie-site)<br>
-3. 📔 Created new repository [nicurrego/Movie-site](https://github.com/nicurrego/Movie-site)<br>
-4. ⬆️ Pushed 1 commit(s) to [nicurrego/React-practice](https://github.com/nicurrego/React-practice)<br>
-5. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
+1. ⬆️ Pushed 1 commit(s) to [nicurrego/react-parallax-effect](https://github.com/nicurrego/react-parallax-effect)<br>
+2. ⬆️ Pushed 1 commit(s) to [nicurrego/react-parallax-effect](https://github.com/nicurrego/react-parallax-effect)<br>
+3. 📔 Created new repository [nicurrego/react-parallax-effect](https://github.com/nicurrego/react-parallax-effect)<br>
+4. ⬆️ Pushed 1 commit(s) to [nicurrego/Movie-site](https://github.com/nicurrego/Movie-site)<br>
+5. ⬆️ Pushed 1 commit(s) to [nicurrego/Movie-site](https://github.com/nicurrego/Movie-site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 1st, 2025, 1:03:41 AM
+Last Updated: Friday, August 1st, 2025, 12:21:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Let’s Keep in Touch
