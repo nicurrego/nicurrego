@@ -76,15 +76,15 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 ---
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nicurrego/portfolio](https://github.com/nicurrego/portfolio)<br>
-2. ⬆️ Pushed 1 commit(s) to [nicurrego/portfolio](https://github.com/nicurrego/portfolio)<br>
-3. ⬆️ Pushed 3 commit(s) to [nicurrego/parallax-website](https://github.com/nicurrego/parallax-website)<br>
-4. ⬆️ Pushed 1 commit(s) to [nicurrego/parallax-website](https://github.com/nicurrego/parallax-website)<br>
-5. ⬆️ Pushed 3 commit(s) to [nicurrego/parallax-website](https://github.com/nicurrego/parallax-website)<br>
+1. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
+2. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
+3. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
+4. ⬆️ Pushed 1 commit(s) to [nicurrego/portfolio](https://github.com/nicurrego/portfolio)<br>
+5. ⬆️ Pushed 1 commit(s) to [nicurrego/portfolio](https://github.com/nicurrego/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 8th, 2025, 1:08:56 PM
+Last Updated: Saturday, August 9th, 2025, 12:52:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Let’s Keep in Touch
