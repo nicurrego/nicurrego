@@ -79,12 +79,12 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 1. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
 2. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
 3. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
-4. ⬆️ Pushed 1 commit(s) to [nicurrego/portfolio](https://github.com/nicurrego/portfolio)<br>
-5. ⬆️ Pushed 1 commit(s) to [nicurrego/portfolio](https://github.com/nicurrego/portfolio)<br>
+4. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
+5. ⬆️ Pushed 1 commit(s) to [nicurrego/my_mind](https://github.com/nicurrego/my_mind)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 9th, 2025, 1:00:24 PM
+Last Updated: Sunday, August 10th, 2025, 1:00:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Let’s Keep in Touch
