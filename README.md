@@ -76,10 +76,12 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 ---
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [nicurrego/MION_website](https://github.com/nicurrego/MION_website)<br>
+2. 📔 Created new repository [nicurrego/MION_website](https://github.com/nicurrego/MION_website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 1st, 2025, 2:26:05 AM
+Last Updated: Wednesday, October 1st, 2025, 12:20:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Let’s Keep in Touch
