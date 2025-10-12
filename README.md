@@ -76,12 +76,13 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 ---
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nicurrego/MION_website](https://github.com/nicurrego/MION_website)<br>
-2. 📔 Created new repository [nicurrego/MION_website](https://github.com/nicurrego/MION_website)<br>
+1. 📔 Created new repository [nicurrego/DS-road](https://github.com/nicurrego/DS-road)<br>
+2. ⬆️ Pushed 1 commit(s) to [nicurrego/MION_website](https://github.com/nicurrego/MION_website)<br>
+3. 📔 Created new repository [nicurrego/MION_website](https://github.com/nicurrego/MION_website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 12th, 2025, 2:17:49 AM
+Last Updated: Sunday, October 12th, 2025, 12:17:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Let’s Keep in Touch
