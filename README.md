@@ -77,11 +77,10 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [yoo16/js26_2025](https://github.com/yoo16/js26_2025)<br>
-2. ⬆️ Pushed undefined commit(s) to [nicurrego/MION_website](https://github.com/nicurrego/MION_website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 31st, 2025, 12:21:09 PM
+Last Updated: Friday, October 31st, 2025, 1:01:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Let’s Keep in Touch
