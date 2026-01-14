@@ -76,7 +76,7 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 ---
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [nicurrego/MION-chatbox-design](https://github.com/nicurrego/MION-chatbox-design)<br>
+1. ⬆️ Pushed undefined commit(s) to [nicurrego/personal_dashboard](https://github.com/nicurrego/personal_dashboard)<br>
 2. ⬆️ Pushed undefined commit(s) to [nicurrego/MION-chatbox-design](https://github.com/nicurrego/MION-chatbox-design)<br>
 3. ⬆️ Pushed undefined commit(s) to [nicurrego/MION-chatbox-design](https://github.com/nicurrego/MION-chatbox-design)<br>
 4. ⬆️ Pushed undefined commit(s) to [nicurrego/MION-chatbox-design](https://github.com/nicurrego/MION-chatbox-design)<br>
@@ -84,7 +84,7 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 14th, 2026, 3:02:44 AM
+Last Updated: Wednesday, January 14th, 2026, 12:23:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Let’s Keep in Touch
