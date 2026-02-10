@@ -76,15 +76,15 @@ Skilled in Python 🐍, JavaScript ⚛️, and building scalable, production‑r
 ---
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Kibo-Colombia/kibo-nexus-web](https://github.com/Kibo-Colombia/kibo-nexus-web)<br>
+1. ⬆️ Pushed undefined commit(s) to [Kibo-Colombia/CFO-mykibo-colombia](https://github.com/Kibo-Colombia/CFO-mykibo-colombia)<br>
 2. ⬆️ Pushed undefined commit(s) to [Kibo-Colombia/kibo-nexus-web](https://github.com/Kibo-Colombia/kibo-nexus-web)<br>
 3. ⬆️ Pushed undefined commit(s) to [Kibo-Colombia/kibo-nexus-web](https://github.com/Kibo-Colombia/kibo-nexus-web)<br>
-4. ⬆️ Pushed undefined commit(s) to [nicurrego/personal_dashboard](https://github.com/nicurrego/personal_dashboard)<br>
-5. ⬆️ Pushed undefined commit(s) to [Kibo-Colombia/.github](https://github.com/Kibo-Colombia/.github)<br>
+4. ⬆️ Pushed undefined commit(s) to [Kibo-Colombia/kibo-nexus-web](https://github.com/Kibo-Colombia/kibo-nexus-web)<br>
+5. ⬆️ Pushed undefined commit(s) to [nicurrego/personal_dashboard](https://github.com/nicurrego/personal_dashboard)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 10th, 2026, 1:20:08 AM
+Last Updated: Tuesday, February 10th, 2026, 12:45:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Let’s Keep in Touch
